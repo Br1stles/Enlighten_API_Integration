@@ -1,3 +1,3 @@
-Enlighten_API_Integration
+Enlighten API Integration
 
-For use with the Enlight API
+For Using the Enlight API
